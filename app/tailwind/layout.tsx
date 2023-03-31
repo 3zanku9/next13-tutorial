@@ -1,3 +1,4 @@
+import "@/styles/tailwind.css";
 import React from "react";
 
 interface RootLayoutProps {
